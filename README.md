@@ -2,7 +2,7 @@
 
 Hey everyone,
 
-I recently went back to play *Tropico 4* but struggled with the outdated camera controls. I wanted it to feel smooth and modern, similar to *Cities: Skylines*.
+I recently discovered *Tropico 4* but struggled with the outdated camera controls. I wanted it to feel smooth and modern, similar to *Cities: Skylines*.
 
 The already existing AutoHotkey scripts I tried were quite clunky to use and were made for AHK v1, so I had a brand new AHK v2 script written. It completely overhauls the camera, fixes the clunky game speed hotkeys, and uses Virtual Keys to ensure it works on international keyboard layouts (no more AltGr issues!).
 
